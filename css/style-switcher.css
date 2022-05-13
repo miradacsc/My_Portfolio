@@ -12,7 +12,7 @@
     transform: translateX(100%);
 }
 
-.style-switcher .open {
+.style-switcher.open {
     transform: translateX(-25px);
 }
 .style-switcher .s-icon {
@@ -31,7 +31,7 @@
     border-radius: 50%;
 }
 
-.style-switcher .s-icon {
+.style-switcher .s-icon i{
     line-height: 40px;
 }
 
@@ -81,6 +81,6 @@
 }
 
 .style-switcher .color-5 {
-    background: #f021b2;;
+    background: #f021b2;
 }
 
